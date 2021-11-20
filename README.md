@@ -15,7 +15,7 @@ Hangman
 
 # Description
    
-   A simple React hangman app where random words are generated(hidden),take your chances to guess the right word and it takes 6 wrong guessed to lose the game.
+   A simple React hangman app where random words are generated(hidden), take your chances to guess the right word and it takes 6 wrong guessed to lose the game.
 
 # TECH STACK 
   * HTML
