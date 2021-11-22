@@ -6,7 +6,7 @@ Hangman
   A simple hangman made with React
     <br />
     <br />
-    <a href="https://pokedex.stevenhansel.com">View Demo</a>
+    <a href="https://hemant-sai-hangman1.netlify.app/ ">View Demo</a>
    
   </p>
 </p>
